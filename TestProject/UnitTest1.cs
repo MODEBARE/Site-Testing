@@ -10,55 +10,6 @@ using System.Net.Mime;
 using OpenQA.Selenium.Interactions;
 using System.ComponentModel;
 
-                                        //1
-
-
-//STLC PHASES
-//  1. Requirement Analysis
-//  2. Test Planning
-//  3. Test Case Development
-//  4. Test Environment Setup
-//  5. Test Execution
-//  6. Test Cycle Closure
-
-//2
-
-//A
-
-/*What is Testing?
-Testing in casual term is defined as a finding out how well something works/measure of a quality. In Software technology, testing is the act of examining the behavior of a
-software under test by validation and verification in order to find bugs.
-
-                                //B
-
-                    Manual and Automation Testing 
-Manual testing refers to the method of testing in which human performs the test step by step without writing the scripts.
-This human is the QA analyst. 
-
-                                while
-
-Automation testing, tests are automated automatically via test automation frameworks, along
-with other tools and software.*/
-
-//C
-
-/* Tester's Documents includes the following
- Functional Requirement Specification
- Business Requirement Document
- Requirement for Proposal
- Software Requirement Document
- Requirement Traceability Matrix
- Functional Requirement Document
-*/
-
-            //3
-
-//Qualities Of a QA
-/* 1. Creative Mind
- * 2. Confidence
- * 3. Resalience
- * 4. Diplomacy
- */
 
 
 namespace TestProject
